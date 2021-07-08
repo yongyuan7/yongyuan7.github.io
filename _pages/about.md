@@ -12,5 +12,5 @@ Hello! Welcome to my personal website! I am currently a postdoctoral research sc
 
 I earned my Ph.D. in Crop and Soil Science – Environmental Toxicology with a dual major in Environmental Science and Policy at Michigan State University in 2020. I received my BS in Environmental Science from the University of Alberta in Canada. I worked on antibiotic resistance and bacterial microbiome in lettuce-soil systems during my Ph.D. In my spare time, I enjoy exploring good eats, fun places, and hanging out with friends.
 
-I am trained and had proficient in microbiome bioinformatics (Amplicon sequencing, shotgun metagenome sequencing, and shotgun metatranscriptome sequencing). Please navigate to bioinformatics service page for paid microbiome raw data processing service. 
+I am proficient in microbiome bioinformatics (amplicon sequencing, shotgun metagenome sequencing, and shotgun metatranscriptome sequencing). Please navigate to bioinformatics service page for paid microbiome raw data processing service. 
 
