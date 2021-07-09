@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-* This is the AWS RONIN tutorials for Baccarelli Lab at Columbia University
+This is the AWS RONIN tutorials for Baccarelli Lab at Columbia University
 * Tutorial Link: https://github.com/YikeShen/BaccarelliLab_AWSRONIN_tutorials
 * Author: Yike Shen
 * 06/04/2021
