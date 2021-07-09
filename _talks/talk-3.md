@@ -6,5 +6,3 @@ venue: "The Baccarelli Laboratory, Columbia University Mailman School of Public 
 date: February 18, 2020
 location: "New York, NY"
 ---
-
-#This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
