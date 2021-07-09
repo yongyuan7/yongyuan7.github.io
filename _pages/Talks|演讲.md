@@ -3,8 +3,8 @@ layout: archive
 title: "Talks|演讲"
 permalink: /Talks|演讲/
 author_profile: true
-redirect_from:
-  - /resume
+#redirect_from:
+#  - /resume
 ---
 
 {% include base_path %}
