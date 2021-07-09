@@ -12,7 +12,7 @@ Hello! I am Yike Shen. Welcome to my personal website! I am currently a postdoct
 
 I earned my Ph.D. in Crop and Soil Science – Environmental Toxicology with a dual major in Environmental Science and Policy at Michigan State University in 2020 under the supervision of [Prof. Wei Zhang](https://www.canr.msu.edu/people/wei_zhang). I received my BS in Environmental Science from the University of Alberta in Canada. I worked on antibiotic resistance and bacterial microbiome in lettuce-soil systems during my Ph.D. 
 
-I am from beautiful and vibrant city - Hangzhou, Zhejiang, China. In my spare time, I enjoy exploring good eats, fun places, and hanging out with friends. I am proficient in microbiome bioinformatics (amplicon sequencing, shotgun metagenome sequencing, and shotgun metatranscriptome sequencing). I am accepting paid microbiome bioinformatics service requests in my spare time. Please navigate to Bioinformatics Services page for details. 
+I am from beautiful and vibrant city - Hangzhou, Zhejiang, China. In my spare time, I enjoy exploring good eats, fun places, and hanging out with friends. I sporadically make videos on interesting events around me at my [BiliBili chanel](https://space.bilibili.com/480150385). I am proficient in microbiome bioinformatics (amplicon sequencing, shotgun metagenome sequencing, and shotgun metatranscriptome sequencing). I am accepting paid microbiome bioinformatics service requests in my spare time. Please navigate to Bioinformatics Services page for details. 
 
 Contact Information
 =====
@@ -29,7 +29,7 @@ Email: ys3419@cumc.columbia.edu
 
 我2020年春天在美国密歇根州立大学获得了环境毒理学-作物和土壤科学 和 环境科学与政策的双博士学位，在张伟教授实验室。我的博士期间 做抗生素，抗性基因， 微生物组学在土壤和生菜体系中的研究。我同时也做了一个和食品标签和食品安全有关的调查文件机器学习的研究。我在2016年在加拿大阿尔伯塔大学获得了环境科学的学士学位。
 
-我来自中国浙江省杭州市，现居住在美国纽约市。在我空闲的时间喜欢旅游，享受美食，探索周围新奇的东西，我也喜欢户外活动。在博士和博士后期间我有充分的微生物组学的生物统计的经验。在我下班时间接微生物组学（扩增子，宏基因组，宏转录组）raw data 分析的付费数据处理，请到Bioinformatics Services 页面了解更多情况。
+我来自中国浙江省杭州市，现居住在美国纽约市。在我空闲的时间喜欢旅游，享受美食，探索周围新奇的东西，我也喜欢户外活动。欢迎关注沈博士B站频道 [珂珂大讲堂](https://space.bilibili.com/480150385).在博士和博士后期间我有充分的微生物组学的生物统计的经验。在我下班时间接微生物组学（扩增子，宏基因组，宏转录组）raw data 分析的付费数据处理，请到Bioinformatics Services 页面了解更多情况。
 
 联系方式
 =====
