@@ -2,7 +2,7 @@
 title: "Bacterial community assembly and antibiotic resistance genes in the lettuce-soil system upon antibiotic exposure"
 collection: publications
 permalink: https://www.sciencedirect.com/science/article/pii/S0048969721013231
-excerpt: code, https://github.com/YikeShen/Shen-et-al.-2021_Science-of-the-Total-Environment.
+excerpt: Code, https://github.com/YikeShen/Shen-et-al.-2021_Science-of-the-Total-Environment.
 date: July 2021
 venue: 'Science of The Total Environment'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0048969721013231'
