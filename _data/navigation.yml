@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications|论文"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talks|演讲"
     url: /talks/    
 
-  - title: "Bioinformatics Services"
+  - title: "Bioinformatics Services|生统服务"
     url: /bioinformatics/    
     
  # - title: "Portfolio"
  #   url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog Posts|博客"
     url: /blogs/
     
-  - title: "CV"
+  - title: "CV|简历"
     url: /cv/
     
  # - title: "Guide"
