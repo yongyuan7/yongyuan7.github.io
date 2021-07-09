@@ -9,6 +9,9 @@ tags:
 ---
 
 This is the AWS RONIN tutorials for Baccarelli Lab at Columbia University
+
+Headings are cool
+======
 * Tutorial Link: https://github.com/YikeShen/BaccarelliLab_AWSRONIN_tutorials
 * Author: Yike Shen
 * 06/04/2021
@@ -18,8 +21,6 @@ This is the AWS RONIN tutorials for Baccarelli Lab at Columbia University
   * Tutorial_3: Example for small amplicon sequencing data processing using python and unix command in Linux system.
   * Tutorial_4: Example for large shotgun metagenome sequencing data processing using python and unix command in Linux system.
 
-Headings are cool
-======
 
 You can have many headings
 ======
