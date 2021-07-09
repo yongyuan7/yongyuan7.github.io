@@ -21,8 +21,8 @@ redirect_from:
 
 | Sequencing          | Cost   | Services                                                             |
 | --------         | ------ | ------------------------------------------------------------ |
-| Shotgun metagenome| $35/sample| QC, mapping, assembly, species and pathway profiling, and more upon request with additional $|
-| Shotgun metatranscriptome| $45/sample| QC, rRNA removal, mapping, assembly, gene expression, and more upon request with additional $|
+| Shotgun metagenome| $35/sample| QC, mapping or assembly, species and pathway profiling, and more upon request with additional $|
+| Shotgun metatranscriptome| $45/sample| QC, rRNA removal, mapping or assembly, gene expression, and more upon request with additional $|
 | Amplicon sequencing| $10/sample| QC, OTU table, alpha and beta diversity, community structure|
 
 ## 介绍
@@ -36,8 +36,8 @@ redirect_from:
 
 | 测序种类          | 价格   | 服务                                                             |
 | --------         | ------ | ------------------------------------------------------------ |
-| 宏基因组测序| 35美元/样品| QC, mapping, assembly, species and pathway profiling, and more upon request with additional $|
-| 宏转录组测序| 45美元/样品| QC, rRNA removal, mapping, assembly, gene expression, and more upon request with additional $|
+| 宏基因组测序| 35美元/样品| QC, mapping or assembly, species and pathway profiling, and more upon request with additional $|
+| 宏转录组测序| 45美元/样品| QC, rRNA removal, mapping or assembly, gene expression, and more upon request with additional $|
 | 扩增子测序| 10美元/样品| QC, OTU table, alpha and beta diversity, community structure|
 
 
