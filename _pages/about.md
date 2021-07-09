@@ -19,7 +19,8 @@ Contact Information
 Yike Shen \
 Department of Environmental Health Sciences \
 Columbia Mailman School of Public Health \
-722 West 168th Street \
+630 West 168th Street \
+P&S Building, Room 16-416 \
 New York, New York 10032\
 Email: ys3419@cumc.columbia.edu
 
@@ -36,7 +37,8 @@ Email: ys3419@cumc.columbia.edu
 沈忆珂 \
 环境健康系 \
 哥伦比亚大学梅尔曼公共卫生学院 \
-722 West 168th Street \
+630 West 168th Street \
+P&S Building, Room 16-416 \
 New York, New York 10032\
 邮箱: ys3419@cumc.columbia.edu
 
