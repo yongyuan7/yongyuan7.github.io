@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Ph.D. Crop and Soil Science – Environmental Toxicology, Michigan State University, 2020
+Ph.D. Environmental Science and Policy, Michigan State University, 2020
+Advisor: Prof. Wei Zhang
+Dissertation: Antibiotic Resistance and Bacterial Microbiome in Lettuce-Soil Systems
+B.Sc. Environmental and Conservation Sciences, University of Alberta, 2016
+
+
 
 Work experience
 ======
