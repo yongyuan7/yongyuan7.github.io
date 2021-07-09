@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Pharmaceutical exposure changed antibiotic resistance genes and bacterial communities in soil-surface- and overhead-irrigated greenhouse lettuce"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://www.sciencedirect.com/science/article/pii/S016041201931270X
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: Oct 2019
+venue: 'Environment International'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S016041201931270X'
+citation: 'Shen, Y., Stedtfeld, R. D., Guo, X., Bhalsod, G. D., Jeon, S., Tiedje, J. M., ... & Zhang, W. (2019). Pharmaceutical exposure changed antibiotic resistance genes and bacterial communities in soil-surface-and overhead-irrigated greenhouse lettuce. Environment international, 131, 105031.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
