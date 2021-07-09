@@ -3,6 +3,6 @@ title: "Pharmaceutical Exposure Changed Bacterial Community and Antibiotic Resis
 collection: talks
 type: "Conference Oral Presentational"
 venue: "American Chemical Society National Meeting #256"
-date: August 19-23 , 2018
+date: August 20, 2018
 location: "Boston, MA"
 ---
