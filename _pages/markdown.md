@@ -13,43 +13,8 @@ redirect_from:
 * Shotgun data is easier to obtain now than before with highthrougput sequencing platforms like Illumina NovaSeq6000. However, the data generated from shotgun is huge, usually ranges from 3G to 20G, more than 40 million reads per sample for shotgun metagenome. Shotgun metatreanscriptome is even more challenging, with more than 20G and 100 million reads per sample. For example, shotgun metagenome assembly and mapping can take up to 20 hours per sample! Shotgun metatranscriptome QC rRNA, adapter, human genome removal can take up to 30 hours computation time. Let alone consuming 100G memory during computation. Data processing is time consuming and requires the access to supercomputing cluster (HPC) or HPC cloud. Data processing also involves proficient use of python and unix in Linux system. Sometimes you just wanted to know who is there and what are they doing in your interested microbiome sample. It takes a great effort to learn python, unix, computing in linux command line system. In addition, not everybody have access to HPC. 
 * Don't worry! Dr. Shen get you covered!
 * I offer Microbiome Bioinformatics service at competitive pricing and short turnaround time. 
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Book your FREE 30 minutes consultation with me(ys3419@cumc.columbia.edu), get a quote, and resolve your microbiome data processing headaches!
 
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
-
-## Markdown guide
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
 
 ## Tables
 
@@ -57,9 +22,9 @@ Single line blockquote:
 
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Shotgun metagenome| $35/sample| QC, mapping, assembly, species and pathway profiling, and more upon request with additional $|
+| Shotgun metatranscriptome| $45/sample   | QC, rRNA removal, mapping, assembly, gene expression, and more upon request with additional $|
+| Amplicon sequencing| $10/sample   | QC, OTU table, alpha and beta diversity, community structure|
 
 ### Table 2
 
