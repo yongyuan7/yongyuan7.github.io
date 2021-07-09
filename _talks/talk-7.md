@@ -3,6 +3,6 @@ title: "Antibiotic Stress Changed Microbial Community and Distribution of Antibi
 collection: talks
 type: "Conference Oral Presentational"
 venue: "4th International Symposium on the Environmental Dimension of Antibiotic Resistance"
-date: August 13-17, 2017
+date: August 13, 2017
 location: "East Lansing, MI"
 ---
