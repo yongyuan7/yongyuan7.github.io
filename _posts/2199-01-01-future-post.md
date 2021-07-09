@@ -8,4 +8,12 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+* This is the AWS RONIN tutorials for Baccarelli Lab at Columbia University
+Author: Yike Shen
+06/04/2021
+Confidential video tutorials to Baccarelli Lab available at lab shared drive under AWS RONIN tutorials
+
+Tutorial_1:  RONIN Machine and cluster configuration and navigation
+Tutorial_2: AWS CLI and file transfer.
+Tutorial_3: Example for small amplicon sequencing data processing using python and unix command in Linux system.
+Tutorial_4: Example for large shotgun metagenome sequencing data processing using python and unix command in Linux system.
