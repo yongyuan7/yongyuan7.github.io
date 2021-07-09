@@ -18,7 +18,7 @@ Contact Information
 =====
 Yike Shen \
 Department of Environmental Health Sciences \
-Columbia Mailman School of Public Health \
+Columbia University Mailman School of Public Health \
 630 West 168th Street \
 P&S Building, Room 16-416 \
 New York, New York 10032\
