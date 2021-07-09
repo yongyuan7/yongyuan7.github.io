@@ -10,13 +10,13 @@ main:
     url: /talks/    
 
   - title: "Bioinformatics Services|生统服务"
-    url: /bioinformatics/    
+    url: /markdown/   
     
  # - title: "Portfolio"
  #   url: /portfolio/
         
   - title: "Blog Posts|博客"
-    url: /blogs/
+    url: /year-archive/
     
 
     
