@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. Crop and Soil Science – Environmental Toxicology, Michigan State University, 2020
-* Ph.D. Environmental Science and Policy, Michigan State University, 2020
+* Ph.D. dual major Environmental Science and Policy, Michigan State University, 2020
 * B.Sc. Environmental and Conservation Sciences, University of Alberta, 2016
 
 Interests
