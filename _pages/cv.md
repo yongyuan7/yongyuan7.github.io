@@ -17,20 +17,24 @@ Education
 
 Interests
 ======
+* One health
 * Microbiome
-* One Health
-* Environmental Exposure
-* Machine Learning
+* Machine learning
+* Bioinformatics
+* High dimensional data
+* Multi-omics
+* Environmental exposures
+
 
 Work experience
 ======
 * 2020.6-present: Postdoctoral Research Scientist
   * Department of Environmental Health Sciences, Columbia University
   * Mentor: Professor Andrea Baccarelli
-  * Investigated Association of childhood and perinatal blood metals with children gut microbiome in a Canadian gestation cohort.
-  * Implemented machine learning models to predict chemical ecotoxicity. 
-  * Streamlined shotgun metagenome and shotgun metatranscriptome analysis extraction, sequencing, high throughput computing bioinformatics, and downstream analysis. 
-  * I am studying whether the gut microbiome can mediate the MRI brain measures, attention deficit hyperactivity disorder (ADHD) behaviors and diagnosis affected by different levels of flame retardants/metals exposure in childhood.
+  * Streamlined wet lab for microbiome shotgun metagenomics and metatranscriptomics sequencing
+  * Automated bioinformatic workflow for microbiome shotgun metagenomics and metatranscriptomics analyses in high-performance computing clusters
+  * Investigated the associations of childhood and perinatal blood metals with children’s gut microbiomes in a Canadian gestation cohort
+  * Applied representation learning to predict chemical ecotoxicity
 
 
 * 2016.8-2020.5: Graduate Research Assistant
