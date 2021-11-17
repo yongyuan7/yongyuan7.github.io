@@ -39,7 +39,7 @@ Work experience
 
 * 2016.8-2020.5: Graduate Research Assistant
   * Department of Plant, Soil, and Microbial Sciences, Michigan State University
-  * Advisor: Professor Wei Zhang
+  * Advisor, mentor: Professor Wei Zhang
   * Committe Members: Professors. Hui Li, Elliot T. Ryser, Ashley Shade
   * Investigated the changes in antibiotics resistance genes (ARGs) and bacterial communities in soil-surface- and overhead irrigated lettuce influenced by pharmaceuticals
   * Investigated uptake and accumulation of antibiotics, the associated impact on the bacterial microbiome assembly in growth chamber grown lettuce
