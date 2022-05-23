@@ -6,5 +6,5 @@ excerpt: '[Code](https://github.com/YikeShen/Shen-et-al.-2021-Chemosphere), http
 date: January 2021
 venue: 'Chemosphere'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0045653520318725'
-citation: 'Shen, Y., Li, H., Ryser, E. T., & Zhang, W. (2021). Comparing root concentration factors of antibiotics for lettuce (Lactuca sativa) measured in rhizosphere and bulk soils. Chemosphere, 262, 127677.'
+citation: 'Shen Y, Li H, Ryser ET, Zhang W* (2021). Comparing root concentration factors of antibiotics for lettuce (Lactuca sativa) measured in rhizosphere and bulk soils. Chemosphere, 262, 127677.'
 ---
