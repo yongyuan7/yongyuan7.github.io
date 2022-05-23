@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View CV here](https://github.com/YikeShen/yikeshen.github.io/blob/master/_pages/CV_Shen%2CYike_052322.pdf)
+[View pdf CV here](https://github.com/YikeShen/yikeshen.github.io/blob/master/_pages/CV_Shen%2CYike_052322.pdf)
 
 Education
 ======
