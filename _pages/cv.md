@@ -104,5 +104,5 @@ External Awards
 * ZAFU - UofA (ALES) Award  (University of Alberta), 2013
 * National Scholarship of China (Ministry of Education in China), 2013
 
-
+[Download CV here](https://github.com/YikeShen/yikeshen.github.io/blob/master/_pages/CV_Shen%2CYike_052322.pdf)
 *Updated 05/22/2022 
