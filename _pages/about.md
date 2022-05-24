@@ -21,7 +21,7 @@ High dimensional data are becoming increasingly common in environmental and biom
 Accurate prediction of fate and transport of contaminants in the environment is a critical step in chemical risk assessment. I am interested in systematically predicting toxicity and understanding properties of interest with the help of machine learning, deep learning, and experiments. My work includes: 1) predicted pesticide dissipation half-life intervals in plants using molecular fingerprints [Shen et al., 2022. Journal of Hazardous Materials, Accepted](); 2) predicted bioaccumulation of organic contaminants in plant roots from soils [Gao and Shen et al., 2022. Journal of Hazardous Materials](https://doi.org/10.1016/j.jhazmat.2021.127437); [Gao et al., 2021. Environmental Science & Technology](https://doi.org/10.1021/acs.est.1c02376); 3) conducted a laboratory experiment on comparing root concentration factors of antibiotics for lettuce measured in rhizosphere and bulk soils [Shen et al., 2021. Chemosphere](https://doi.org/10.1016/j.chemosphere.2020.127677). 
 
 4. Network analysis in epidemiology cohort studies.\
-Exciting updates are coming soon. Stay tuned!
+Exciting updates are coming soon [Shen et al., manuscript in prepration](). Stay tuned!
 
 I support open and transparent research, all code for my publications (leading and/or corresponding authors) are available at my [GitHub Repository](https://github.com/YikeShen?tab=repositories); \
 list of my [publications](https://scholar.google.com/citations?hl=en&user=hLvLhVcAAAAJ&view_op=list_works&sortby=pubdate);\
