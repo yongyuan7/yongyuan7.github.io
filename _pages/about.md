@@ -37,10 +37,9 @@ Columbia University Mailman School of Public Health \
 630 West 168th Street \
 P&S Building, Room 16-416 \
 New York, New York 10032\
-Email: yike.shen@columbia.edu
+Email: yike.shen@columbia.edu\
 Email: ys3419@cumc.columbia.edu
 
-Footnote about me: I am from beautiful and vibrant city - Hangzhou, Zhejiang, China. In my spare time, I enjoy exploring good eats, fun places, and hanging out with friends. I sporadically make videos on interesting events around me at my [BiliBili chanel](https://space.bilibili.com/480150385). :)
 
 联系方式
 =====
