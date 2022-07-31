@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View pdf CV here](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_071522.pdf)
+[View pdf CV here](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_073022.pdf)
 
 Education
 ======
@@ -106,4 +106,4 @@ External Awards
 * ZAFU - UofA (ALES) Award  (University of Alberta), 2013
 * National Scholarship of China (Ministry of Education in China), 2013
 
-*Updated 05/22/2022 
+*Updated 07/31/2022 
