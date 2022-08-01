@@ -1,7 +1,7 @@
 ---
 title: "In Utero Exposure to Caffeine and Acetaminophen, the Gut Microbiome, and Neurodevelopmental Outcomes: A Prospective Birth Cohort Study"
 collection: publications
-permalink: https://www.mdpi.com/1660-4601/19/15/9357/htm
+permalink: https://doi.org/10.3390/ijerph19159357
 excerpt: '[Code](https://github.com/YikeShen/Laue-and-Shen-et-al_2022_IJERPH), https://github.com/YikeShen/Laue-and-Shen-et-al_2022_IJERPH'
 date: July 2022
 venue: 'International Journal of Environmental Research and Public Health'
