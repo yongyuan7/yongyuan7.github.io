@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## I am currently in the market for Tenure Track Assistant Professor positions in Environmental Health Sciences/Environmental Sciences.
 
-![Framework](https://github.com/YikeShen/Shen-Yike_CV/blob/master/Theme_watermark.png)
+![Framework](https://github.com/YikeShen/Shen-Yike_CV/blob/master/theme_compressed.PNG)
 
 Welcome to my website! I am currently a postdoctoral research scientist at Columbia University working with Dr. Andrea Baccarelli. I dedicate my career and research to environmental health data science. I approach this theme through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data. In my doctoral and postdoctoral training, I gained proficient knowledge and skills in microbiome, machine learning, high dimensional data analytics, bioinformatics, environmental toxicology, and wet lab techniques. My major research interests are listed as follows:
 
