@@ -19,13 +19,15 @@ Education
 
 Interests
 ======
-* One health
+
+* Environmental health data science
 * Microbiome
 * Machine learning
-* High dimensional data
+* High dimensional data analysis
 * Bioinformatics
 * Multi-omics
 * Environmental exposures
+
 
 Work experience
 ======
@@ -78,15 +80,15 @@ Teaching Assistant (TA)
 
 Review Services
 =====
-* Environmental Science & Technology – #1
-* Environmental Research – #1 
-* Science of the Total Environment – #1
-* Food Chemistry – #1
-* BMC Genomics – #2 
-* Environmental Pollution – #2 
-* Frontiers in Microbiology – #2 
-* Journal of Environmental Management – #1
-* Reviews of Environmental Contamination and Toxicology – #1
+* Environmental Science & Technology
+* Environmental Research
+* Science of the Total Environment
+* Food Chemistry
+* BMC Genomics
+* Environmental Pollution
+* Frontiers in Microbiology
+* Journal of Environmental Management
+* Reviews of Environmental Contamination and Toxicology
 
 Honors & Awards
 =====
@@ -106,4 +108,4 @@ External Awards
 * ZAFU - UofA (ALES) Award  (University of Alberta), 2013
 * National Scholarship of China (Ministry of Education in China), 2013
 
-*Updated 07/31/2022 
+*Updated 09/13/2022 
