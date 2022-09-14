@@ -11,6 +11,7 @@ redirect_from:
 
 ![Framework](https://github.com/YikeShen/Shen-Yike_CV/blob/master/theme_compressed.PNG)
 ![Test](https://github.com/YikeShen/yikeshen.github.io/blob/master/_pages/theme_watermark_compressed.PNG)
+<img src="theme_watermark_compressed.PNG" height="100"/>
 
 Welcome to my website! I am currently a postdoctoral research scientist at Columbia University working with Dr. Andrea Baccarelli. I dedicate my career and research to environmental health data science. I approach this theme through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data. In my doctoral and postdoctoral training, I gained proficient knowledge and skills in microbiome, machine learning, high dimensional data analytics, bioinformatics, environmental toxicology, and wet lab techniques. My major research interests are listed as follows:
 
