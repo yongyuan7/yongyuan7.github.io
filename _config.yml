@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yike Shen | 沈忆珂"
+title                    : "Yongyuan Yang | 杨永愿"
 title_separator          : "-"
-name                     : &name "Yike Shen"
+name                     : &name "Yongyuan Yang"
 description              : &description "Personal Website"
-url                      : https://yikeshen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yongyuan7.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://yikeshen.github.io/"
+repository               : "https://yongyuan7.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yike Shen, Ph.D."
+  name             : "Yongyuan Yang, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Scientist"
-  location         : "New York, NY"
-  employer         : "Columbia University"
+  bio              : "PhD Researcher"
+  location         : "Belgium"
+  employer         : "Ghent University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hLvLhVcAAAAJ&hl=en"
-  email            : "ys3419@cumc.columbia.edu"
+  email            : "yongyuanyang7@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Yike-Shen-2"
   uri              :
   bitbucket        :
